@@ -1,1 +1,2 @@
 # resumework
+verbs tips samples
